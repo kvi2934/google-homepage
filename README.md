@@ -1,0 +1,1 @@
+A rebuilding of the Google Search page from scratch to learn HTML and CSS.

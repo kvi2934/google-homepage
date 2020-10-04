@@ -1,0 +1,127 @@
+.mainsite {
+    font-family: arial, sans-serif;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 200px;
+    padding-bottom: 2em;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin: 2em;
+}
+
+header nav {
+    padding-top: 0.85em;
+    margin-left: 10px;
+    margin-right: 50px;
+}
+
+button {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    background-color: #f2f2f2;
+    color: #5F6368;
+    border: none;
+    height: 36px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+footer nav {
+    position: fixed;
+    left:0;
+    bottom: 0;
+    width: 100%;
+}
+
+footer nav ul {
+    background-color: #f2f2f2;
+}
+
+footer nav ul li {
+    line-height: 40px;
+    color: rgb(95, 99, 104);
+}
+
+footer nav ul li a {
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    color: rgb(95, 99, 104);
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+}
+
+header nav ul li a {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    color: #000;
+    opacity: 0.75;
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+li {
+    display: inline;
+}
+
+#search-bar {
+    color: rgba(0, 0, 0, .87);
+    display: flex;
+    flex: 100%;
+    font-size: 16px;
+    background-color: rgb(255, 255, 255);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-image: none;
+    background-size: auto;
+    background-origin: padding-box;
+    background-clip: border-box;
+    border-top-color: rgb(223, 225, 229);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(223, 225, 229);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(223, 225, 229);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(223, 225, 229);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-outset: 0;
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    border-image-width: 1;
+    box-shadow: none;
+    border-radius: 24px;
+    height: 44px;
+    width: 527px;
+    margin-top: 0px;
+    margin-bottom: 0;
+    margin-left: 675px;
+    margin-right: 675px;
+    padding-left: 40px;
+}
